@@ -8,7 +8,7 @@ public class Barge extends Ship
     /**
      * @param bearing - barge bearing dgdfhdf
      * @param pos     - upper left position of the barge
-     * hh
+     * hhhhhhh
      */
     public Barge(Compass bearing, IPosition pos)
     {
